@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-21T17:44:04.750Z'
-dateModified: '2015-10-21T17:42:43.769Z'
+datePublished: '2015-10-21T17:49:44.764Z'
+dateModified: '2015-10-21T17:49:36.589Z'
 title: Åkersberga
+sourcePath: _posts/2015-10-21-akersberga.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-21-akersberga.md
-published: true
 url: akersberga/index.html
 _type: Article
 
