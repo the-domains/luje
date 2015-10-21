@@ -1,0 +1,23 @@
+name: luje
+favicon: null
+layout_spectrum: 0.5600787159055471
+typography_spectrum: 0.10520863207057118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.01929476181976497
+  lightness: 0.974773294525221
+  saturation: 0.5927761921193451
+  rhythmicContrast: 0.3117167770396918
+purpose: []
