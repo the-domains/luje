@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[luje]]></title>
         <description><![CDATA[luje]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/luje/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 17:44:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 17:49:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/luje/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Åkersberga]]></title>
             <description><![CDATA[<article><h1>Åkersberga</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/151fa3a7-0dc4-463e-93ed-f7ac67b5194b.jpg"></article>]]></description>
-            <link>undefinedakersberga/index.html</link>
+            <link>https://thegrid.ai/luje/akersberga/index.html</link>
             <guid isPermaLink="false">303b7353-f5e1-427f-ad6e-e89586ee1343</guid>
-            <pubDate>Wed, 21 Oct 2015 17:44:04 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2015 17:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
