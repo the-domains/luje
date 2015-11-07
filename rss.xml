@@ -4,7 +4,7 @@
         <description><![CDATA[luje]]></description>
         <link>https://thegrid.ai/luje/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 15:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 10:06:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/luje/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Åkersberga]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/luje/akersberga/index.html</link>
             <guid isPermaLink="false">303b7353-f5e1-427f-ad6e-e89586ee1343</guid>
             <pubDate>Fri, 23 Oct 2015 15:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ännu en fotoblogg]]></title>
-            <description><![CDATA[<article><h1>Ännu en fotoblogg</h1><p>Det här är tänkt att bli en samling av mina bilder.. lite oklart vad när och hur men vi får se</p></article>]]></description>
-            <link>https://thegrid.ai/luje/annu-en-fotoblogg/index.html</link>
-            <guid isPermaLink="false">f4b119c1-5db3-43a0-bd73-193730f860fe</guid>
-            <pubDate>Wed, 21 Oct 2015 18:19:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
