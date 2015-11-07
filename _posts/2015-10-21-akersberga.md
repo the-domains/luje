@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-23T15:42:14.185Z'
-dateModified: '2015-10-23T15:42:11.590Z'
+datePublished: '2015-11-07T10:06:23.313Z'
+dateModified: '2015-11-07T10:06:18.399Z'
 title: Åkersberga
 sourcePath: _posts/2015-10-21-akersberga.md
 published: true
